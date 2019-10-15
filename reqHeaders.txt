@@ -1,0 +1,10 @@
+{'Content-Type': 'application/x-www-form-urlencoded',
+'User-Agent': 'PostmanRuntime/7.18.0',
+'Accept': '*/*',
+'Cache-Control': 'no-cache',
+'Postman-Token': '9fe3ded1-2df0-4ae4-9cbb-290c307b9ef5',
+'Host': 'tes.collegesource.com',
+'Accept-Encoding': 'gzip, deflate',
+'Content-Length': '86787',
+'Cookie': 'ASP.NET_SessionId=r5uw5ink1r0jbvhvzbxeqggx; AWSALB=MmMirPHaCgZ7o+qH+MC/6TTcAsqaC2P2m9aDkFUW62t1Gz2JAxrByMV5vLGo4EFu8sXS7NYz9BPje2Up1vfWo3cOQFShS3FvX2mGO2uPuCaLlcn20qbz4Lh+7Qnq',
+'Connection': 'keep-alive'}

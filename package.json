@@ -1,0 +1,26 @@
+{
+  "name": "transferscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thechristianreynolds/TransferScraper.git"
+  },
+  "author": "Christian Reynolds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thechristianreynolds/TransferScraper/issues"
+  },
+  "homepage": "https://github.com/thechristianreynolds/TransferScraper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.0"
+  }
+}
